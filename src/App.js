@@ -12,6 +12,9 @@ function App() {
         <p>
           idea hails
         </p>
+        <p>
+          idea isb 
+        </p>
         
       </header>
     </div>
