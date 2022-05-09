@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          idea
+          idea 
+        </p>
+        <p>
+          idea hails
         </p>
         
       </header>
